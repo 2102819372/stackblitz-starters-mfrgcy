@@ -1,3 +1,4 @@
+import React from 'react';
 import { Input } from 'antd';
 const InputTest = () => {
   return (
@@ -6,4 +7,4 @@ const InputTest = () => {
     </div>
   );
 };
-export defult InputTest
+export default InputTest;
